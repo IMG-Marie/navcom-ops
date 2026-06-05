@@ -1,0 +1,8 @@
+{
+  "short_name": "NAVCOM Ops",
+  "name": "NAVCOM Operations System",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1F4E79",
+  "background_color": "#f5f5f4"
+}
